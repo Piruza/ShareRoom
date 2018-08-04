@@ -1,0 +1,34 @@
+
+
+/**********************/
+
+*{
+    font-family: "BPG MTAVRULI";
+    font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6, *, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+textarea{
+    resize: none;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    min-width: 100%;
+}
+
+/**********************/
+
+
+
